@@ -13,8 +13,11 @@ Mp4 not yet destroyed by youtube compression also at [mega.nz](https://mega.nz/#
 
 All single processed + unprocessed frames are also at [github](https://github.com/graphific/Fear-and-Loathing-experiment)
 
-![deepdreamanim1](http://media.giphy.com/media/l41lRx92QqsIXy5MI/giphy.gif "deep dream animation 1")
-![deepdreamanim2](http://media.giphy.com/media/l41lSzjTsGJcIzpKg/giphy.gif "deep dream animation 2")
+
+![]('https://iraqprogrammer.files.wordpress.com/2020/05/dream_sky_treation-50.jpg')
+![]('https://iraqprogrammer.files.wordpress.com/2020/05/dream_sky.jpg')
+
+
 
 Advise also at https://github.com/graphific/DeepDreamVideo/wiki
 
